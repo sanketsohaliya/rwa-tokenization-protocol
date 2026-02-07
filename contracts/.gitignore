@@ -1,0 +1,24 @@
+# Compiler output
+cache/
+out/
+
+# Foundry broadcast logs
+broadcast/
+
+# Dotenv
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dependencies (installed via forge install)
+lib/
+
+# Coverage
+lcov.info
+coverage/
